@@ -374,18 +374,10 @@ DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,upaiyun.com
 
 #transsion
-DOMAIN-SUFFIX,mail.transsion.com
-DOMAIN-SUFFIX,mbs.transsion.com
-DOMAIN-SUFFIX,gpt-mobile.transsion.com
-DOMAIN-SUFFIX,log-center.transsion.com
-DOMAIN-SUFFIX,pffeishu.transsion.com
-DOMAIN-SUFFIX,eln.transsion.com
-DOMAIN-SUFFIX,eln-mobile.transsion.com
-DOMAIN-SUFFIX,hk-paas.transsion.com
-DOMAIN-SUFFIX,workbench.transsion.com
+DOMAIN-SUFFIX,transsion.com
 
 #员工之家
-DOMAIN-SUFFIX,api.dongbaosoft.com
+DOMAIN-SUFFIX,dongbaosoft.com
 
 # AccelerateDirectSites
 DOMAIN-SUFFIX,10010.com
