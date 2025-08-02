@@ -39,6 +39,7 @@ DOMAIN-SUFFIX,futo-on.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,transsion
+DOMAIN-KEYWORD,dongbaosoft
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
@@ -382,6 +383,9 @@ DOMAIN-SUFFIX,eln.transsion.com
 DOMAIN-SUFFIX,eln-mobile.transsion.com
 DOMAIN-SUFFIX,hk-paas.transsion.com
 DOMAIN-SUFFIX,workbench.transsion.com
+
+#员工之家
+DOMAIN-SUFFIX,api.dongbaosoft.com
 
 # AccelerateDirectSites
 DOMAIN-SUFFIX,10010.com
