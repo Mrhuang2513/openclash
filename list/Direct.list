@@ -40,6 +40,7 @@ DOMAIN-SUFFIX,futo-on.com
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,transsion
 DOMAIN-KEYWORD,dongbaosoft
+DOMAIN-KEYWORD,idjyj
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
