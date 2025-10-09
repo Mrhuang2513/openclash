@@ -1,10 +1,13 @@
+#域名后缀匹配
 #9one
 DOMAIN-SUFFIX,udid.pro
 DOMAIN-SUFFIX,zjls2h.com
 DOMAIN-SUFFIX,tfsuwe.com
 DOMAIN-SUFFIX,auwpahzi.com
 DOMAIN-SUFFIX,djtvgz.com
-DOMAIN-SUFFIX,hpdzswds.com
 
 #javdb
 DOMAIN-SUFFIX,btyjscl.com
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,hpdzswds
