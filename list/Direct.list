@@ -44,7 +44,7 @@ DOMAIN-KEYWORD,idjyj
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
-PORT,5110,DIRECT
+
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
