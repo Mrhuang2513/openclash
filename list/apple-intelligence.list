@@ -6,3 +6,20 @@ guzzoni.apple.com
 apple-relay.fastly-edge.com
 cp4.cloudflare.com
 gspel-ssl.ls.apple.com
+
+mask-api.fe.apple-dns.com
+mask-api.icloud.com
+mask-t.apple-dns.com
+mask.apple-dns.com
+apple-relay.apple.com
+apple-relay.cloudflare.com
+apple-relay.fastly-edge.com
+apple-relay.mask.apple-dns.com
+cp4.cloudflare.com
+gateway.icloud.com
+gspel-ssl.1s apple.com
+ls.apple.com
+mask-h2.icloud.com
+mask.icloud.com
+smoot.apple.com
+apps.mzstatic.com
